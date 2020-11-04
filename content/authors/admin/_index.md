@@ -20,7 +20,6 @@ interests:
 - Tissue Mechanics
 - Epithelial Turnover
 - Cell Migration
-- Cell Adhesion
 
 education:
   courses:
